@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34606206/README.md)
 # Lucky TCG Guy — Social Landing Page
 
 A free static landing page with original Pokémon-inspired colours and a Poké Ball-inspired CSS logo (no official Pokémon artwork).
